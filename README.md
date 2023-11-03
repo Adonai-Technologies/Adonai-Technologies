@@ -1,7 +1,4 @@
-
-
-
-https://github.com/Adonai-Technologies/Adonai-Technologies/assets/130577072/0033b601-8ba1-4835-b8de-0fac556b94ba
+https://www.canva.com/design/DAFzHqkjqrM/O1qh_o7aEw5gUhlJXigi7w/edit?utm_content=DAFzHqkjqrM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 A tech community builder through code and collaboration, I'm a software engineer who's not just passionate about programming but equally committed to fostering and strengthening the bonds that fuel innovation. My mission extends beyond lines of code, aiming to unite and empower tech enthusiasts to create a dynamic and supportive ecosystem for all.
 
