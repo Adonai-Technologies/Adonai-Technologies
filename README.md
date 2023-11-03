@@ -2,6 +2,7 @@ A tech community builder through code and collaboration, I'm a software engineer
 
 
 
+[Resume](https://github.com/Adonai-Technologies/Adonai-Technologies/files/13251442/my.resume1.pdf)
 
 
 
