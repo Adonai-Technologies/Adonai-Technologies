@@ -1,5 +1,7 @@
 
 
+<img width="100%" height="200px" src="https://github.com/Adonai-Technologies/Adonai-Technologies/assets/130577072/42684db1-a4e3-4df4-bfd1-c87742db981e" alt="my banner">
+
 
 <section  align="center">
  <a href="">Website</a>  <a href="">LinkedIn</a>    <a href="">Twitter</a> <a href="">Resume</a>
