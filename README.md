@@ -1,6 +1,8 @@
+<img width = "100%" height="200px" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" alt="">
+
 <h1 align="center">Hi 👋, I'm Akua</h1>
 <h3 align="center">A passionate Software Engineer @100devs</h3>
-<img width = "100%" height="400px" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" alt="">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adonai-technologies&label=Profile%20views&color=0e75b6&style=flat" alt="adonai-technologies" /> </p>
 <p align="left"> <a href="https://twitter.com/akuakonadu" target="blank">
 <img src="https://img.shields.io/twitter/follow/akuakonadu?logo=twitter&style=for-the-badge" alt="akuakonadu" /></a> </p>
