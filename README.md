@@ -44,11 +44,9 @@
 <h3 align="center">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Akua Konadu"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Akua Konadu" /></a><a href="https://ko-fi.com/Akua"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Akua" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adonai-technologies&show_icons=true&locale=en&layout=compact" alt="adonai-technologies" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=adonai-technologies&show_icons=true&locale=en" alt="adonai-technologies" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=adonai-technologies&" alt="adonai-technologies" /></p>
+
 
 
 
