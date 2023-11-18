@@ -2,7 +2,7 @@
 
 <img width="100%" height="200px" src="https://github.com/Adonai-Technologies/Adonai-Technologies/assets/130577072/e818b61b-1a44-4d1e-9be3-440f06248efb" alt="my banner">
 
-<div align="left" style='display:flex'>
+<div align="center" style='display:flex'>
   <a href="#"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /></a>
   
   <a href="#"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
