@@ -34,7 +34,7 @@ See [my website](AkuaKonadu.com) for more information!
       <h3 align="center">Amanfopa Shoe Factory</h3>
         <br />
         <a target="_blank" href="https://amanfopa.netlify.app/">
-            <img src="https://th.bing.com/th/id/OIP.Ga9cQRr8Hg6l5F1lgdBJ_QAAAA?rs=1&pid=ImgDetMain" width="100%" alt="Travel App"/>
+            <img src="https://th.bing.com/th/id/OIP.Ga9cQRr8Hg6l5F1lgdBJ_QAAAA?rs=1&pid=ImgDetMain" width="100%" alt="Amanfopa business website"/>
         </a>
         <br />
         <p align="center">
