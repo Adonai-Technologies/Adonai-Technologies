@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <a href="#" target="_blank">
+  <a href="https://adonaitechnologies.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
   <a href="https://www.linkedin.com/in/akua-konadu-adonai-technologies/" target="_blank">
@@ -13,7 +13,7 @@
   <a href="https://twitter.com/EuniceOsei18" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
   </a>
-  <a href="#" target="_blank">
+  <a href="" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
   </a>
   <a href="https://drive.google.com/file/d/1Z1goLYIBqyuid1pcXiqmGt02VjHo4Fv3/view?pli=1" target="_blank">
@@ -23,7 +23,7 @@
 
 I'm a passionate software developer with a knack for problem-solving and a love for crafting innovative digital solutions. I specialize in coding, collaborating with cross-functional teams, and ensuring the reliability and security of software applications. With a commitment to continuous learning and a deep understanding of programming languages and development methodologies, I thrive in creating and maintaining cutting-edge software that empowers businesses and end-users.
 
-See [my website](AkuaKonadu.com) for more information!
+See [my website](https://adonaitechnologies.netlify.app/) for more information!
 
 
 <h1 align="center">Projects</h1>
@@ -34,25 +34,25 @@ See [my website](AkuaKonadu.com) for more information!
       <h3 align="center">Amanfopa Shoe Factory</h3>
         <br />
         <a target="_blank" href="https://amanfopa.netlify.app/">
-            <img src="https://th.bing.com/th/id/OIP.Ga9cQRr8Hg6l5F1lgdBJ_QAAAA?rs=1&pid=ImgDetMain" width="100%" alt="Amanfopa business website"/>
+            <img src="images/Amanfopa.png" width="100%" alt="Amanfopa business website"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/CharlesCreativeContent/Demo-Day" target="_blank">
+  <a href="https://amanfopa.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href="\https://shawncharles.com/travelara" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=VIDEO&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, Bootstrap, Sass, Node.js, & Express.js</strong> - Platform to help build momentous milestones along with your friends and family! Travelara makes Dream Trips a Reality!</p>
+        <p><strong>Javascript, Bootstrap, Sass, Node.js, </strong> - Platform to help customers locate and visit their factory </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Rigley 2: "Flappy Bug"</h3>
+      <h3 align="center">Matrix Energy Company</h3>
         <br />
-      <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
-            <img src="images/gif2.gif" width="100%"  alt="Rigley 2"/>
+      <a target="_blank" href="https://adonai-technologies.github.io/METRIX-ENERGY/">
+            <img src="images/matrix2.png" width="100%"  alt="matrix"/>
         </a>
         <br />
         <p align="center">
@@ -64,16 +64,16 @@ See [my website](AkuaKonadu.com) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript & Phaser.js</strong> - The awaited sequel sees our Rigley friend jumping through firewalls "Flappy Bird" style.</p>
+        <p><strong>Javascript,Boostrap,Sass.node.js</strong> -Similar website like Amanfopa.designes for custmers to get easy access to Matrix Energy.</p>
     </td>
   </tr>
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">ShawnCharles.com</h3>
+      <h3 align="center">AkuaKonadu.com</h3>
       <br />
-        <a target="_blank" href="https://shawncharles.com">
-          <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
+        <a target="_blank" href="https://adonaitechnologies.netlify.app/">
+          <img src="images/myportfolio.png" width="100%" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
@@ -87,10 +87,10 @@ See [my website](AkuaKonadu.com) for more information!
         <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Matching Cards</h3>
+      <h3 align="center">Up Coming Project</h3>
         <br />
-        <a target="_blank" href="https://poke-matchcards.netlify.app/">
-          <img src="images/gif3.gif" width="100%" alt="Matching Cards"/>
+        <a target="_blank" href="">
+          <img src="images/youtubegif.jpg" width="100%" alt="youtube clone"/>
         </a>
         <br />
         <p align="center">
@@ -102,7 +102,7 @@ See [my website](AkuaKonadu.com) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - With over 100 different cards, test your memory in these three popular trading card themes, Pokemon, Yugioh, & Magic: The Gathering!</p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> </p>
     </td>
   </tr>
 </table>
@@ -144,19 +144,19 @@ See [my website](AkuaKonadu.com) for more information!
 
 
 <p align="center">
-  <a href="https://shawncharles.com" target="_blank">
+  <a href="https://adonaitechnologies.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
-  <a href="https://shawncharles.com/linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/akua-konadu-adonai-technologies/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
-  <a href="https://shawncharles.com/twitter" target="_blank">
+  <a href="https://twitter.com/EuniceOsei18" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
   </a>
-  <a href="https://shawncharles.com/angellist" target="_blank">
+  <a href="" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
   </a>
-  <a href="https://shawncharles.com/resume" target="_blank">
+  <a href="https://drive.google.com/file/d/1Z1goLYIBqyuid1pcXiqmGt02VjHo4Fv3/view?pli=1" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
