@@ -16,7 +16,7 @@
   <a href="" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
   </a>
-  <a href="https://drive.google.com/file/d/1Z1goLYIBqyuid1pcXiqmGt02VjHo4Fv3/view?pli=1" target="_blank">
+  <a href="https://drive.google.com/drive/my-drive" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
@@ -156,7 +156,7 @@ See [my website](https://adonaitechnologies.netlify.app/) for more information!
   <a href="" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
   </a>
-  <a href="https://drive.google.com/file/d/1Z1goLYIBqyuid1pcXiqmGt02VjHo4Fv3/view?pli=1" target="_blank">
+  <a href="https://drive.google.com/drive/my-drive" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
