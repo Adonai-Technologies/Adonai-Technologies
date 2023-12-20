@@ -13,7 +13,7 @@
   <a href="https://twitter.com/EuniceOsei18" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
   </a>
-  <a href="" target="_blank">
+  <a href="https://wellfound.com/profile/edit/overview" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
   </a>
   <a href="https://docs.google.com/document/d/1M14YCK5w-CWyHOLqPPyFJDBDQm0kFn8g1Zp32MeMl4Y/edit" target="_blank">
@@ -153,7 +153,7 @@ See [my website](https://adonaitechnologies.netlify.app/) for more information!
   <a href="https://twitter.com/EuniceOsei18" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
   </a>
-  <a href="" target="_blank">
+  <a href="https://wellfound.com/profile/edit/overview" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
   </a>
   <a href="https://docs.google.com/document/d/1M14YCK5w-CWyHOLqPPyFJDBDQm0kFn8g1Zp32MeMl4Y/edit" target="_blank">
