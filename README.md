@@ -21,7 +21,7 @@
   </a>
 </p>
 
-I'm a passionate software developer with a knack for problem-solving and a love for crafting innovative digital solutions. I specialize in coding, collaborating with cross-functional teams, and ensuring the reliability and security of software applications. With a commitment to continuous learning and a deep understanding of programming languages and development methodologies, I thrive in creating and maintaining cutting-edge software that empowers businesses and end-users.
+I'm a passionate software developer at 100devs with a knack for problem-solving and a love for crafting innovative digital solutions. I specialize in coding, collaborating with cross-functional teams, and ensuring the reliability and security of software applications. With a commitment to continuous learning and a deep understanding of programming languages and development methodologies, I thrive in creating and maintaining cutting-edge software that empowers businesses and end-users.
 
 See [my website](https://adonaitechnologies.netlify.app/) for more information!
 
