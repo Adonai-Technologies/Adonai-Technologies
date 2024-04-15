@@ -89,8 +89,8 @@ See [my website](https://adonaitechnologies.netlify.app/) for more information!
     <td width="50%" valign="top">
       <h3 align="center">A video streaming app</h3>
         <br />
-        <a target="_blank" href="">
-          <img src="images/youtubegif.jpg" width="100%" alt="youtube clone"/>
+        <a target="_blank" href="https://video-bible-front-end.vercel.app/">
+          <img src="images/videobible-front-end.png" width="100%" alt="youtube clone"/>
         </a>
         <br />
         <p align="center">
@@ -98,7 +98,7 @@ See [my website](https://adonaitechnologies.netlify.app/) for more information!
   <a href="" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="" target="_blank">
+  <a href="https://video-bible-front-end.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
