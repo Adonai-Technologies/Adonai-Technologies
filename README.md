@@ -87,7 +87,7 @@ See [my website](https://adonaitechnologies.netlify.app/) for more information!
         <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Up Coming Project</h3>
+      <h3 align="center">A video streaming app</h3>
         <br />
         <a target="_blank" href="">
           <img src="images/youtubegif.jpg" width="100%" alt="youtube clone"/>
