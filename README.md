@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <a href="https://adonaitechnologies.netlify.app/" target="_blank">
+  <a href="https://adonai-technologies.github.io/my-responsive-portfolio-website/#home" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
   <a href="https://www.linkedin.com/in/akua-konadu-adonai-technologies/" target="_blank">
@@ -23,7 +23,7 @@
 
 I'm a passionate software developer at 100devs with a knack for problem-solving and a love for crafting innovative digital solutions. I specialize in coding, collaborating with cross-functional teams, and ensuring the reliability and security of software applications. With a commitment to continuous learning and a deep understanding of programming languages and development methodologies, I thrive in creating and maintaining cutting-edge software that empowers businesses and end-users.
 
-See [my website](https://adonaitechnologies.netlify.app/) for more information!
+See [my website](https://adonai-technologies.github.io/my-responsive-portfolio-website/#home) for more information!
 
 
 <h1 align="center">Projects</h1>
@@ -39,14 +39,14 @@ See [my website](https://adonaitechnologies.netlify.app/) for more information!
         <br />
         <p align="center">
           
-  <a href="" target="_blank">
+  <a href="https://github.com/Adonai-Technologies/Amafopa-busines-website" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href="https://amanfopa.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=VIDEO&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, Bootstrap, Sass, Node.js, </strong> - Platform to help customers locate and visit their factory </p>
+        <p><strong>Javascript, Bootstrap, Sass </strong> - Platform to help customers locate and visit their factory </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Matrix Energy Company</h3>
@@ -57,7 +57,7 @@ See [my website](https://adonaitechnologies.netlify.app/) for more information!
         <br />
         <p align="center">
           
-  <a href="" target="_blank">
+  <a href="https://github.com/Adonai-Technologies/METRIX-ENERGY" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://adonai-technologies.github.io/METRIX-ENERGY/" target="_blank">
@@ -73,14 +73,14 @@ See [my website](https://adonaitechnologies.netlify.app/) for more information!
       <h3 align="center">AkuaKonadu.com</h3>
       <br />
         <a target="_blank" href="https://adonaitechnologies.netlify.app/">
-          <img src="images/myportfolio.png" width="100%" alt="Portfolio"/>
+          <img src="images/mynewportfolio.png" width="100%" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
-  <a href="" target="_blank">
+  <a href="https://github.com/Adonai-Technologies/my-responsive-portfolio-website" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://adonaitechnologies.netlify.app/" target="_blank">
+  <a href="https://adonai-technologies.github.io/my-responsive-portfolio-website/#home" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
@@ -95,7 +95,7 @@ See [my website](https://adonaitechnologies.netlify.app/) for more information!
         <br />
         <p align="center">
           
-  <a href="" target="_blank">
+  <a href="https://github.com/Adonai-Technologies/video-Bible-front-end" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://video-bible-front-end.vercel.app/" target="_blank">
