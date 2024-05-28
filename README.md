@@ -70,7 +70,7 @@ See [my website](https://adonai-technologies.github.io/my-responsive-portfolio-w
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">AkuaKonadu.com</h3>
+      <h3 align="center">ADO-TECH</h3>
       <br />
         <a target="_blank" href="https://adonaitechnologies.netlify.app/">
           <img src="images/mynewportfolio.png" width="100%" alt="Portfolio"/>
