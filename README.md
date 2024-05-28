@@ -51,7 +51,7 @@ See [my website](https://adonai-technologies.github.io/my-responsive-portfolio-w
     <td width="50%" valign="top">
       <h3 align="center">Matrix Energy Company</h3>
         <br />
-      <a target="_blank" href="https://adonai-technologies.github.io/METRIX-ENERGY/">
+      <a target="_blank" href="https://matrixenergycompany.com/">
             <img src="images/matrix2.png" width="100%"  alt="matrix"/>
         </a>
         <br />
@@ -60,7 +60,7 @@ See [my website](https://adonai-technologies.github.io/my-responsive-portfolio-w
   <a href="https://github.com/Adonai-Technologies/METRIX-ENERGY" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://adonai-technologies.github.io/METRIX-ENERGY/" target="_blank">
+  <a href="https://matrixenergycompany.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
@@ -102,7 +102,7 @@ See [my website](https://adonai-technologies.github.io/my-responsive-portfolio-w
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong> Streaming Website, Similar To Netflix Using React. Js And Tailwind CSS</strong> </p>
+        <p><strong>A Video Streaming Website, Similar To Netflix Using React. Js And Tailwind CSS</strong> </p>
     </td>
   </tr>
 </table>
@@ -133,6 +133,7 @@ See [my website](https://adonai-technologies.github.io/my-responsive-portfolio-w
     <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
     <img src="https://img.shields.io/static/v1?label=|&message=FIREBASE&color=cbb148&style=plastic&logo=firebase"/>
     <img src="https://img.shields.io/static/v1?label=|&message=TAILWIND&color=cbb148&style=plastic&logo=tailwind"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=REACT NATIVES&color=cbb148&style=plastic&logo=react natives"/>
 </p>
 
 
