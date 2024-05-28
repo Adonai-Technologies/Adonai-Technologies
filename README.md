@@ -90,7 +90,7 @@ See [my website](https://adonai-technologies.github.io/my-responsive-portfolio-w
       <h3 align="center">A video streaming app</h3>
         <br />
         <a target="_blank" href="https://video-bible-front-end.vercel.app/">
-          <img src="images/videobible-front-end.png" width="100%" alt="youtube clone"/>
+          <img src="images/videob.png" width="100%" alt="youtube clone"/>
         </a>
         <br />
         <p align="center">
